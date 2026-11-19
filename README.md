@@ -106,6 +106,7 @@ The system begins with interpretable models and probability calibration:
 ## Usage
 
 ```bash
+pip install -r requirements.txt
 python -m sol_scalper.app.main
 ```
 
